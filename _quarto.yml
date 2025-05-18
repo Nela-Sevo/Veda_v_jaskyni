@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Vedavjaskyni.github.io"
+  title: "Veda v jaskyni o.z"
   navbar:
     left:
       - href: index.qmd
