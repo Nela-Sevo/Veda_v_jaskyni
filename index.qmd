@@ -1,11 +1,22 @@
 ---
 title: "Veda v jaskyni"
+image: FI4.jpg
+about: 
+  template: marquee
+  image-width: 48em
+  image-shape: rounded
 ---
 
-This is a Quarto website.
+## O nás
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Občianske združenie Veda v Jaskyni o.z. je združením vedcov, jaskyniarov, nadšencov a priaznivcov speleológie s cieľom rozširovať poznanie a poznatky o jaskyniach, ich vzniku a vývoji; ako aj o dôležitosti ochrany zraniteľnej krasovej krajiny.
 
-```{r}
-1 + 1
-```
+## História a zameranie
+
+Vznikli sme v roku 2023 a venujeme sa výskumu a dokumentácii jaskýň, rekonštrukcii vzniku jaskýň a rekonštrukcii dávnych environmentálnych podmienok prostredníctnom štúdia jaskynných výplní. Tiež sa intenzívne venujeme vzdelávaniu verejnosti v oblasti speleológie a ochrany prírody a práci s deťmi a mládežou.
+
+## Stanovy
+
+[Download](files/Stanovy_VVJ.pdf)
+
+## 

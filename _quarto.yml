@@ -9,14 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - news.qmd
+      - team.qmd
+      - contact_us.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - cyborg
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
