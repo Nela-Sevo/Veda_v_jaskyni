@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "O nás",
     "section": "",
-    "text": "Občianske združenie Veda v Jaskyni o.z. je združením vedcov, jaskyniarov, nadšencov a priaznivcov speleológie. Naším cieľom je získavať a rozširovať poznanie a poznatky o jaskyniach, ich vzniku a vývoji; ako aj o dôležitosti ochrany zraniteľnej krasovej krajiny.\n\n1 + 1\n\n[1] 2"
+    "text": "Občianske združenie Veda v Jaskyni o.z. je združením vedcov, jaskyniarov, nadšencov a priaznivcov speleológie. Naším cieľom je získavať a rozširovať poznanie a poznatky o jaskyniach, ich vzniku a vývoji; ako aj o dôležitosti ochrany zraniteľnej krasovej krajiny."
   },
   {
     "objectID": "index.html#o-nás",
@@ -110,5 +110,12 @@
     "title": "Realizácie",
     "section": "Exkurzie",
     "text": "Exkurzie"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Novinky",
+    "section": "",
+    "text": "Novinky pripravujeme"
   }
 ]
