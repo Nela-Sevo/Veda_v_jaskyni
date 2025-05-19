@@ -4,14 +4,21 @@ project:
 
 website:
   title: "Veda v jaskyni o.z"
+  
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - news.qmd
-      - team.qmd
-      - contact_us.qmd
+        text: Domov
+      - href: about.qmd
+        text: O nás
+      - href: news.qmd
+        text: Novinky
+      - href: team.qmd
+        text: Ľudia
+      - href: ourwork
+        text: Realizácie
+      - href: contact_us.qmd
+        text: Kontakt
 
 format:
   html:

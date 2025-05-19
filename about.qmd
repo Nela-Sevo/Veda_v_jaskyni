@@ -1,9 +1,15 @@
 ---
-title: "About"
+title: "O nás"
 ---
 
-About this site
+Občianske združenie Veda v Jaskyni o.z. je združením vedcov, jaskyniarov, nadšencov a priaznivcov speleológie. Naším cieľom je získavať a rozširovať poznanie a poznatky o jaskyniach, ich vzniku a vývoji; ako aj o dôležitosti ochrany zraniteľnej krasovej krajiny.
 
-```{r}
-1 + 1
-```
+## Spolupráca pri výskume
+
+Pracujeme a výskum realizujeme v spolupráci s jaskyniarmi z speleologických skupín, na ktorých prieskumných územiach sa nachádzajú jaskyne, ktoré nás zaujímajú. Aktuálne spolupracujeme najmä so speleoklubmi: Speleo Bratislava, Jaskyniarsky klub Demänovská dolina, jaskyniarska skupina Adama Vallu, Speleoklub Nicolaus, Speleoklub Banská Bystrica, Speleoklub Nitra a Speleo Detva.
+
+Z domácich vedeckých pracovísk spolupracujeme s Ústavom Vied o Zemi v Banskej Bystrici, kde realizujeme analýzy našich vzoriek.
+
+## Envirovýchova
+
+Spolupracujeme s Ekocentrom Stupava, kde mávame občas prednášky so speleologickým zameraním alebo realizujeme náučné exkurzie pre verejnosť. V Ekocentre sme tiež zrealizovali trvalú náučnú expozíciu venujúcu sa vzniku jaskýň a jaskynných výplní, speleologickému prieskumu a výskummu.
