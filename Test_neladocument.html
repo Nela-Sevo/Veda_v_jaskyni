@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sk" xml:lang="sk">
 
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta charset="utf-8" />
+<meta name="generator" content="quarto-1.7.30" />
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
 
-<title>Veda v jaskyni – Veda v jaskyni o.z</title>
+<meta name="author" content="Petronela Ševčíková" />
+
+<title>INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV – Veda v jaskyni o.z</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,25 +23,44 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
-
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2b3e328b71be8d25427581baeb23079b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bb7160830725afa8abeda692f2b24947.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<!-- htmldependencies:E3FAD763 -->
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -53,63 +75,65 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Žiadne výsledky",
+    "search-matching-documents-text": "zhodné dokumenty",
+    "search-copy-link-title": "Skopírovať odkaz pre vyhľadávanie",
+    "search-hide-matches-text": "Skryť ďalšie výsledky",
+    "search-more-match-text": "ďalší výsledok v tomto dokumente",
+    "search-more-matches-text": "ďalších výsledkov v tomto dokumente",
+    "search-clear-button-title": "Vymazať",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Zrušiť",
+    "search-submit-button-title": "Odoslať",
+    "search-label": "Hľadať"
   }
 }</script>
 
 
-<link rel="stylesheet" href="team_layout.css">
+<link rel="stylesheet" href="styles.css" />
 </head>
 
-<body class="nav-fixed quarto-light">
+<body>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="/index.html">
     <span class="navbar-title">Veda v jaskyni o.z</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Hľadať"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+  aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Prepnúť navigáciu"
+  onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="/index.html"> 
 <span class="menu-text">Domov</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="/about.html"> 
 <span class="menu-text">O nás</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="/news.html"> 
 <span class="menu-text">Novinky</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html"> 
+    <a class="nav-link" href="/team.html"> 
 <span class="menu-text">Ľudia</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ourwork"> 
+    <a class="nav-link" href="/ourwork"> 
 <span class="menu-text">Realizácie</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact_us.html"> 
+    <a class="nav-link" href="/contact_us.html"> 
 <span class="menu-text">Kontakt</span></a>
   </li>  
 </ul>
@@ -124,50 +148,211 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#o-nás" id="toc-o-nás" class="nav-link active" data-scroll-target="#o-nás">O nás</a></li>
-  <li><a href="#história-a-zameranie" id="toc-história-a-zameranie" class="nav-link" data-scroll-target="#história-a-zameranie">História a zameranie</a></li>
-  <li><a href="#stanovy" id="toc-stanovy" class="nav-link" data-scroll-target="#stanovy">Stanovy</a></li>
-  </ul>
-</nav>
+        <div id="quarto-toc-target"></div>
     </div>
 <!-- main -->
-<div class="quarto-about-marquee column-page-left">
-  <div class="about-image-container">
-    <img src="FI4.jpg" class="about-image
-  rounded " style="width: 48em;">
-  </div>
-  <div class="about-contents">
-    <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Veda v jaskyni</h1>
+<h1 class="title">INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV</h1>
+<p class="subtitle lead">LIFE-IP Aktivita D - časť: SENZORY</p>
 </div>
-<div class="quarto-title-meta column-page-left">
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autor</div>
+    <div class="quarto-title-meta-contents">
+             <p>Petronela Ševčíková </p>
+          </div>
   </div>
-</header> <main class="content column-page-left" id="quarto-document-content">
-
-<section id="o-nás" class="level2">
-<h2 data-anchor-id="o-nás">O nás</h2>
-<p>Občianske združenie Veda v Jaskyni o.z. je združením vedcov, jaskyniarov, nadšencov a priaznivcov speleológie. Naším cieľom je získavať a rozširovať poznanie a poznatky o jaskyniach, ich vzniku a vývoji; ako aj o dôležitosti ochrany zraniteľnej krasovej krajiny.</p>
-</section>
-<section id="história-a-zameranie" class="level2">
-<h2 data-anchor-id="história-a-zameranie">História a zameranie</h2>
-<p>Vznikli sme v roku 2023 a venujeme sa výskumu a dokumentácii jaskýň, rekonštrukcii vzniku jaskýň a rekonštrukcii dávnych environmentálnych podmienok prostredníctnom štúdia jaskynných výplní. Tiež sa intenzívne venujeme práci s deťmi a mládežou, najmä vzdelávaniu v oblasti speleológie, vied o Zemi, a ochrane prírody.</p>
-</section>
-<section id="stanovy" class="level2">
-<h2 data-anchor-id="stanovy">Stanovy</h2>
-<p>Naše občianske združenie je zastupované predsedom a organizované v troch zložkách: predseda, členovia rady a rádoví členovia. Rozhodnutia sú prijímané zdromaždením predsedu a rady, hlasovaním a konsenzom. Viac informácií nájdete v <a href="files/Stanovy_VVJ.pdf">Stanovách</a></p>
-
-
-</section>
-</main> 
+    
+  
+    
   </div>
+  
+
+
+</header>
+
+
+<style>
+.main-text {
+  text-align: justify;
+}
+</style>
+<div style="text-align: center;">
+<p><img src="Populair+Life.jpg" class="img-fluid" /></p>
+<section id="slovenský-hydrometeorologický-ústav" class="level1">
+<h1>Slovenský Hydrometeorologický Ústav</h1>
+<section id="záverečná-správa" class="level2">
+<h2>Záverečná správa</h2>
+<section id="december-2027" class="level3">
+<h3>December 2027</h3>
+<p>Spolufinancované Európskou úniou. Vyjadrené názory a stanoviská sú výlučne názormi autora/autorky/autorov a nemusia nevyhnutne odrážať názory Európskej únie alebo CINEA. Európska únia ani orgán poskytujúci grant za ne nenesú zodpovednosť.</p>
+<p>Projekt je spolufinancovaný z prostriedkov štátneho rozpočtu SR prostredníctvom Ministerstva životného prostredia SR.</p>
+<div style="text-align: center;">
+<p><img src="Loga-2-riadky.png" class="img-fluid" /></p>
+<div class="main-text">
+<section id="úvod" class="level2">
+<h2>Úvod</h2>
+</section>
+<section id="zoznam-skratiek-a-značiek" class="level2">
+<h2>Zoznam skratiek a značiek</h2>
+<details>
+<summary>
+List of Abbreviations
+</summary>
+<ul>
+<li>
+<b>SHMÚ:</b> Slovenský Hydrometeorologický Ústav
+</li>
+<li>
+<b>EU:</b> Európska Únia
+</li>
+<li>
+<b>SR:</b> Slovenská Republika
+</li>
+<li>
+<b>CINEA:</b> European Climate, Infrastructure and Environment Executive Agency
+</li>
+<li>
+<b>MKO:</b> Manažér kvality ovzdušia
+</li>
+<li>
+<b>PM<sub>2.5</sub>:</b> Znečisťujúca látka pevné častice a koloidy do veľkosti 2.5 mikrometra
+</li>
+<li>
+<b>PM<sub>10</sub>:</b> Znečisťujúca látka pevné častice a koloidy do veľkosti 10 mikrometrov
+</li>
+</ul>
+</details>
+</section>
+<section id="výber-lokalít-pre-monitorovanie-lcs" class="level2">
+<h2>Výber lokalít pre monitorovanie LCS</h2>
+<p>Sumarizácia postupu a použitých kritérií pre výber monitorovanej lokality</p>
+<p>Ozrejmenie počtu lokalít na jednotlivý kraj</p>
+<p>Opis umiestňovania zariadení v rámci jednotlivej lokality a jeho zdôvodnenie (exp/poz)</p>
+</section>
+<section id="metodika-monitorovania-a-zabezpečenia-kvality-meraných-dát-v-teréne" class="level2">
+<h2>Metodika monitorovania a zabezpečenia kvality meraných dát v teréne</h2>
+<p>Opis vybranej metódy referencovania meraní (40d súmernaia, počet zariadení, počet lokalít, počet súmeraní)</p>
+<p>Kritériá pre výber a rozdelovanie zariadení na lokality, ktotériá pre výber a pridelenie rREF staníc pre jednotlivé lokality</p>
+</section>
+<section id="metodika-korekcií" class="level2">
+<h2>Metodika korekcií</h2>
+</section>
+<section id="metodika-validácie" class="level2">
+<h2>Metodika validácie</h2>
+</section>
+<section id="metodika-vyhodnotenia-dát" class="level2">
+<h2>Metodika vyhodnotenia dát</h2>
+<p>Opis metódy validácia meraní od zberu dát, vyhlásenia za platné dáta, vyhlásenia platného priemeru za časové obdobie a podobne.</p>
+<p>Vyhodnotenie presnosti a správnosti dát a opis metodiky nasadenia korekčného faktora</p>
+<p>Opis metódy priebežnej kontroly kvality meraní na experimentálnych lokalitách (toto ešte musíme vymyslieť)</p>
+<p>Dostupnosť RAW a korigovaných dát (ideálne by mohla byť OPEN)</p>
+</section>
+<section id="použité-prístroje" class="level2">
+<h2>Použité prístroje</h2>
+<p>Opis prístrojov v rámci referenčnej stanice, stanovenie ich presnosti správnosti (ak je dostupné)</p>
+<p>Opis experimentálnych zariadení 1 (od dodávateľa)</p>
+<p>Opis experimentálnych zariadení 2 (vlastné) – tu sa dohodnúť, koľko detailov chceme zdieľať.</p>
+<p>Opis všetkých ďalších pomocných zariadení, ak boli použité</p>
+</section>
+<section id="referenčné-stanice-plášťovce-ružomberok" class="level2">
+<h2>Referenčné stanice (Plášťovce, Ružomberok)</h2>
+<p>Charakteristika stanice, znečistenia, typických priemerných ročných/sezónnych koncentrácií.</p>
+<p>Dokumentácia priebehu súmeraní na začiatku a na konci q monitorovania (ak prebehlo)</p>
+<p>Vyhodnotenie súmeraní Ref vs. Senzor, stanovenie korekčných faktorov,</p>
+</section>
+<section id="výsledky-monitorovania-pre-všetky-monitorované-lokality" class="level2">
+<h2>Výsledky monitorovania pre všetky monitorované lokality</h2>
+<p>možno vo forme rastrových máp s interpolovanými priemernými ročnými/kvartálnymi koncentráciami so zobrazením hraníc krajov</p>
+<p>porovnanie krajov navzájom (priemery na lokalitách)</p>
+<p>nájsť vhodné grafické zobrazenie</p>
+<p>Porovnanie výsledkov z príslušnej REF stanice a klastra senzorov na zodpovedajúcich EXP lokalitcáh</p>
+<p>Porovnanie výsledkov meraní senzorov s výsledkami z najbližšej podobnej stanice NMSKO //predebatujeme//</p>
+</section>
+<section id="analýza-detekcie-driftu-meraní-lcs-počas-monitorovania" class="level2">
+<h2>Analýza detekcie driftu meraní LCS počas monitorovania</h2>
+<p>Vyhodnotenie dvoch referenčných súmeraní (na začiatku a na konci monitorovania)</p>
+</section>
+<section id="porovnanie-modelov-kvality-ovzdušia-a-meraných-dát-na-jednotlivých-lokalitách" class="level2">
+<h2>Porovnanie Modelov Kvality ovzdušia a meraných dát na jednotlivých lokalitách</h2>
+<p>Ak to dáva zmysel: Porovnanie rastrov z modelov a rastrov z interpolovaných meraní Resp. porovnanie koncentrácií zobrazených v modeli (napr. Rio alebo aj inom) bez započítania koncentrácií s LCS monitorovania vrátane započítania týchto dát (toto bude asi lepšie) //tu budeme musieť osloviť modelárov a spýtať sa, či by chceli na tom spolupracovať oproti dohode//</p>
+</section>
+<section id="vyhodnotenie-využiteľnosti-lcs-pre-monitorovanie-kvality-ovzdušia" class="level2">
+<h2>Vyhodnotenie využiteľnosti LCS pre monitorovanie kvality ovzdušia</h2>
+<p>Kritické zhodnotenie dosiahnutých výsledkov, zhrnutie výsledkov oproti cieľom projektu, a perspektívy do budúcnosti</p>
+</section>
+<section id="záverečné-zhrnutie" class="level2">
+<h2>Záverečné zhrnutie</h2>
+<p>Krátky záver sumarizujúci práce na projekte</p>
+</section>
+<section id="literatúra" class="level2">
+<h2>Literatúra</h2>
+<section id="appendix-i-čiastková-záverečná-správa-pre-každú-lokalitu" class="level3">
+<h3>Appendix I # Čiastková záverečná správa pre každú lokalitu</h3>
+<p>interaktívna mapa so všetkými lokalitami, a ty si klikneš na guličku a vyroluje sa ti záverečná správa</p>
+</section>
+<section id="appendix-ii-záznamy-o-zverejňovaní-dát-sazpweby-obcíshmu" class="level3">
+<h3>Appendix II # Záznamy o zverejňovaní dát (SAZP/weby obcí/SHMU(?))</h3>
+</section>
+<section id="appendix-iii-dostupnosť-dát-appendix-iv" class="level3">
+<h3>Appendix III # Dostupnosť dát Appendix IV<br />
+</h3>
+</section>
+<section id="záznam-z-outreach-aktivít-pre-verejnosť-ak-relevantné" class="level3">
+<h3>Záznam z outreach aktivít pre verejnosť – ak relevantné</h3>
+</section>
+<section id="appendix-v-zoznam-publikácií-okrem-záverečnej-správy" class="level3">
+<h3>Appendix V # Zoznam publikácií okrem Záverečnej Správy</h3>
+</section>
+</section>
+<section id="running-code" class="level2">
+<h2>Running Code</h2>
+<p>When you click the <strong>Render</strong> button a document will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
+<div class="cell">
+<div class="sourceCode" id="cb1"><pre class="sourceCode r cell-code"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
 </div>
- <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
+</div>
+<p>You can add options to executable code like this</p>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 4</code></pre>
+</div>
+</div>
+<p>The <code>echo: false</code> option disables the printing of code (only output is displayed).</p>
+</section>
+</div>
+</div>
+</section>
+</section>
+</section>
+</div>
+<p>:::: :::::</p>
+<div id="quarto-navigation-envelope" class="hidden">
+<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1zaWRlYmFyLXRpdGxl">Veda v jaskyni o.z</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXItdGl0bGU=">Veda v jaskyni o.z</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6RG9tb3Y=">Domov</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2luZGV4Lmh0bWw=">/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6TyBuw6Fz">O nás</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2Fib3V0Lmh0bWw=">/about.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6Tm92aW5reQ==">Novinky</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L25ld3MuaHRtbA==">/news.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6xL11ZGlh">Ľudia</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3RlYW0uaHRtbA==">/team.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6UmVhbGl6w6FjaWU=">Realizácie</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L291cndvcms=">/ourwork</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6S29udGFrdA==">Kontakt</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2NvbnRhY3RfdXMuaHRtbA==">/contact_us.html</span></p>
+</div>
+<div id="quarto-meta-markdown" class="hidden">
+<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW1ldGF0aXRsZQ==">INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV – Veda v jaskyni o.z</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLXR3aXR0ZXJjYXJkdGl0bGU=">INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV – Veda v jaskyni o.z</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW9nY2FyZHRpdGxl">INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV – Veda v jaskyni o.z</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW1ldGFzaXRlbmFtZQ==">Veda v jaskyni o.z</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLXR3aXR0ZXJjYXJkZGVzYw==">LIFE-IP Aktivita D - časť: SENZORY</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW9nY2FyZGRkZXNj">LIFE-IP Aktivita D - časť: SENZORY</span></p>
+</div>
+
+</main> <!-- /main -->
+<script id = "quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -184,12 +369,12 @@ ul.task-list li input[type="checkbox"] {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Skopírované!");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Skopírované!");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -560,7 +745,6 @@ ul.task-list li input[type="checkbox"] {
   </script>
 </div> <!-- /content -->
 
+</body>
 
-
-
-</body></html>
+</html>

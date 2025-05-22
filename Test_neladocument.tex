@@ -1,0 +1,433 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  slovak,
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{241,243,245}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.40,0.45,0.13}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\BuiltInTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\ExtensionTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.28,0.35,0.67}{#1}}
+\newcommand{\ImportTok}[1]{\textcolor[rgb]{0.00,0.46,0.62}{#1}}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.07,0.07,0.07}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Obsah}
+\else
+  \newcommand\contentsname{Obsah}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Zoznam obrázkov}
+\else
+  \newcommand\listfigurename{Zoznam obrázkov}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Zoznam tabuliek}
+\else
+  \newcommand\listtablename{Zoznam tabuliek}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Obrázok}
+\else
+  \newcommand\figurename{Obrázok}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabuľka}
+\else
+  \newcommand\tablename{Tabuľka}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Výpis}
+\newcommand*\listoflistings{\listof{codelisting}{Zoznam výpisov}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV},
+  pdfauthor={Petronela Ševčíková},
+  pdflang={sk},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO
+NÁKLADOVÝCH SENZOROV}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{LIFE-IP Aktivita D - časť: SENZORY}
+\author{Petronela Ševčíková}
+\date{}
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Obsah}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+
+\pandocbounded{\includegraphics[keepaspectratio]{Populair+Life.jpg}}
+
+\section{Slovenský Hydrometeorologický
+Ústav}\label{slovenskuxfd-hydrometeorologickuxfd-uxfastav}
+
+\subsection{Záverečná správa}\label{zuxe1vereux10dnuxe1-spruxe1va}
+
+\subsubsection{December 2027}\label{december-2027}
+
+Spolufinancované Európskou úniou. Vyjadrené názory a stanoviská sú
+výlučne názormi autora/autorky/autorov a nemusia nevyhnutne odrážať
+názory Európskej únie alebo CINEA. Európska únia ani orgán poskytujúci
+grant za ne nenesú zodpovednosť.
+
+Projekt je spolufinancovaný z prostriedkov štátneho rozpočtu SR
+prostredníctvom Ministerstva životného prostredia SR.
+
+\pandocbounded{\includegraphics[keepaspectratio]{Loga-2-riadky.png}}
+
+\subsection{Úvod}\label{uxfavod}
+
+\subsection{Zoznam skratiek a
+značiek}\label{zoznam-skratiek-a-znaux10diek}
+
+List of Abbreviations
+
+SHMÚ: Slovenský Hydrometeorologický Ústav
+
+EU: Európska Únia
+
+SR: Slovenská Republika
+
+CINEA: European Climate, Infrastructure and Environment Executive Agency
+
+MKO: Manažér kvality ovzdušia
+
+PM\textsubscript{2.5}: Znečisťujúca látka pevné častice a koloidy do
+veľkosti 2.5 mikrometra
+
+PM\textsubscript{10}: Znečisťujúca látka pevné častice a koloidy do
+veľkosti 10 mikrometrov
+
+\subsection{Výber lokalít pre monitorovanie
+LCS}\label{vuxfdber-lokaluxedt-pre-monitorovanie-lcs}
+
+Sumarizácia postupu a použitých kritérií pre výber monitorovanej
+lokality
+
+Ozrejmenie počtu lokalít na jednotlivý kraj
+
+Opis umiestňovania zariadení v rámci jednotlivej lokality a jeho
+zdôvodnenie (exp/poz)
+
+\subsection{Metodika monitorovania a zabezpečenia kvality meraných dát v
+teréne}\label{metodika-monitorovania-a-zabezpeux10denia-kvality-meranuxfdch-duxe1t-v-teruxe9ne}
+
+Opis vybranej metódy referencovania meraní (40d súmernaia, počet
+zariadení, počet lokalít, počet súmeraní)
+
+Kritériá pre výber a rozdelovanie zariadení na lokality, ktotériá pre
+výber a pridelenie rREF staníc pre jednotlivé lokality
+
+\subsection{Metodika korekcií}\label{metodika-korekciuxed}
+
+\subsection{Metodika validácie}\label{metodika-validuxe1cie}
+
+\subsection{Metodika vyhodnotenia
+dát}\label{metodika-vyhodnotenia-duxe1t}
+
+Opis metódy validácia meraní od zberu dát, vyhlásenia za platné dáta,
+vyhlásenia platného priemeru za časové obdobie a podobne.
+
+Vyhodnotenie presnosti a správnosti dát a opis metodiky nasadenia
+korekčného faktora
+
+Opis metódy priebežnej kontroly kvality meraní na experimentálnych
+lokalitách (toto ešte musíme vymyslieť)
+
+Dostupnosť RAW a korigovaných dát (ideálne by mohla byť OPEN)
+
+\subsection{Použité prístroje}\label{pouux17eituxe9-pruxedstroje}
+
+Opis prístrojov v rámci referenčnej stanice, stanovenie ich presnosti
+správnosti (ak je dostupné)
+
+Opis experimentálnych zariadení 1 (od dodávateľa)
+
+Opis experimentálnych zariadení 2 (vlastné) -- tu sa dohodnúť, koľko
+detailov chceme zdieľať.
+
+Opis všetkých ďalších pomocných zariadení, ak boli použité
+
+\subsection{Referenčné stanice (Plášťovce,
+Ružomberok)}\label{referenux10dnuxe9-stanice-pluxe1ux161ux165ovce-ruux17eomberok}
+
+Charakteristika stanice, znečistenia, typických priemerných
+ročných/sezónnych koncentrácií.
+
+Dokumentácia priebehu súmeraní na začiatku a na konci q monitorovania
+(ak prebehlo)
+
+Vyhodnotenie súmeraní Ref vs.~Senzor, stanovenie korekčných faktorov,
+
+\subsection{Výsledky monitorovania pre všetky monitorované
+lokality}\label{vuxfdsledky-monitorovania-pre-vux161etky-monitorovanuxe9-lokality}
+
+možno vo forme rastrových máp s interpolovanými priemernými
+ročnými/kvartálnymi koncentráciami so zobrazením hraníc krajov
+
+porovnanie krajov navzájom (priemery na lokalitách)
+
+nájsť vhodné grafické zobrazenie
+
+Porovnanie výsledkov z príslušnej REF stanice a klastra senzorov na
+zodpovedajúcich EXP lokalitcáh
+
+Porovnanie výsledkov meraní senzorov s výsledkami z najbližšej podobnej
+stanice NMSKO //predebatujeme//
+
+\subsection{Analýza detekcie driftu meraní LCS počas
+monitorovania}\label{analuxfdza-detekcie-driftu-meranuxed-lcs-poux10das-monitorovania}
+
+Vyhodnotenie dvoch referenčných súmeraní (na začiatku a na konci
+monitorovania)
+
+\subsection{Porovnanie Modelov Kvality ovzdušia a meraných dát na
+jednotlivých
+lokalitách}\label{porovnanie-modelov-kvality-ovzduux161ia-a-meranuxfdch-duxe1t-na-jednotlivuxfdch-lokalituxe1ch}
+
+Ak to dáva zmysel: Porovnanie rastrov z modelov a rastrov z
+interpolovaných meraní Resp. porovnanie koncentrácií zobrazených v
+modeli (napr. Rio alebo aj inom) bez započítania koncentrácií s LCS
+monitorovania vrátane započítania týchto dát (toto bude asi lepšie) //tu
+budeme musieť osloviť modelárov a spýtať sa, či by chceli na tom
+spolupracovať oproti dohode//
+
+\subsection{Vyhodnotenie využiteľnosti LCS pre monitorovanie kvality
+ovzdušia}\label{vyhodnotenie-vyuux17eiteux13enosti-lcs-pre-monitorovanie-kvality-ovzduux161ia}
+
+Kritické zhodnotenie dosiahnutých výsledkov, zhrnutie výsledkov oproti
+cieľom projektu, a perspektívy do budúcnosti
+
+\subsection{Záverečné zhrnutie}\label{zuxe1vereux10dnuxe9-zhrnutie}
+
+Krátky záver sumarizujúci práce na projekte
+
+\subsection{Literatúra}\label{literatuxfara}
+
+\subsubsection{Appendix I \# Čiastková záverečná správa pre každú
+lokalitu}\label{appendix-i-ux10diastkovuxe1-zuxe1vereux10dnuxe1-spruxe1va-pre-kaux17eduxfa-lokalitu}
+
+interaktívna mapa so všetkými lokalitami, a ty si klikneš na guličku a
+vyroluje sa ti záverečná správa
+
+\subsubsection{Appendix II \# Záznamy o zverejňovaní dát (SAZP/weby
+obcí/SHMU(?))}\label{appendix-ii-zuxe1znamy-o-zverejux148ovanuxed-duxe1t-sazpweby-obcuxedshmu}
+
+\subsubsection{\texorpdfstring{Appendix III \# Dostupnosť dát Appendix
+IV\\
+}{Appendix III \# Dostupnosť dát Appendix IV }}\label{appendix-iii-dostupnosux165-duxe1t-appendix-iv}
+
+\subsubsection{Záznam z outreach aktivít pre verejnosť -- ak
+relevantné}\label{zuxe1znam-z-outreach-aktivuxedt-pre-verejnosux165-ak-relevantnuxe9}
+
+\subsubsection{Appendix V \# Zoznam publikácií okrem Záverečnej
+Správy}\label{appendix-v-zoznam-publikuxe1ciuxed-okrem-zuxe1vereux10dnej-spruxe1vy}
+
+\subsection{Running Code}\label{running-code}
+
+When you click the \textbf{Render} button a document will be generated
+that includes both content and the output of embedded code. You can
+embed code like this:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{1} \SpecialCharTok{+} \DecValTok{1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+[1] 2
+\end{verbatim}
+
+You can add options to executable code like this
+
+\begin{verbatim}
+[1] 4
+\end{verbatim}
+
+The \texttt{echo:\ false} option disables the printing of code (only
+output is displayed).
+
+:::: :::::
+
+
+
+
+\end{document}

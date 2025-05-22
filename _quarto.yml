@@ -25,7 +25,7 @@ format:
     theme:
       - cyborg
       - brand
-    css: styles.css
+    css: team_layout.css
     toc: true
     page-layout: full
 

@@ -1,0 +1,183 @@
+---
+title: "INFORMATÍVNY MONITORING KVALITY OVZDUŠIA POMOCOU NÍZKO NÁKLADOVÝCH SENZOROV"
+lang: sk
+subtitle: "LIFE-IP Aktivita D - časť: SENZORY"
+
+author: "Petronela Ševčíková" 
+
+format:
+  html: default
+  pdf: default
+  docx: default
+  
+editor: visual
+self-contained: true
+toc: true
+toc title: "Obsah"
+toc location: left
+---
+
+```{=html}
+<style>
+.main-text {
+  text-align: justify;
+}
+</style>
+```
+
+::::: {style="text-align: center;"}
+![](Populair+Life.jpg)
+
+# Slovenský Hydrometeorologický Ústav
+
+## Záverečná správa
+
+### December 2027
+
+Spolufinancované Európskou úniou. Vyjadrené názory a stanoviská sú výlučne názormi autora/autorky/autorov a nemusia nevyhnutne odrážať názory Európskej únie alebo CINEA. Európska únia ani orgán poskytujúci grant za ne nenesú zodpovednosť.
+
+Projekt je spolufinancovaný z prostriedkov štátneho rozpočtu SR prostredníctvom Ministerstva životného prostredia SR.
+
+::: {style="text-align: center;"}
+![](Loga-2-riadky.png)
+
+::: main-text
+## Úvod
+
+## Zoznam skratiek a značiek
+
+<details>
+
+<summary>List of Abbreviations</summary>
+
+<ul>
+
+<li><b>SHMÚ:</b> Slovenský Hydrometeorologický Ústav</li>
+
+<li><b>EU:</b> Európska Únia</li>
+
+<li><b>SR:</b> Slovenská Republika</li>
+
+<li><b>CINEA:</b> European Climate, Infrastructure and Environment Executive Agency</li>
+
+<li><b>MKO:</b> Manažér kvality ovzdušia</li>
+
+<li><b>PM~2.5~:</b> Znečisťujúca látka pevné častice a koloidy do veľkosti 2.5 mikrometra</li>
+
+<li><b>PM~10~:</b> Znečisťujúca látka pevné častice a koloidy do veľkosti 10 mikrometrov</li>
+
+</ul>
+
+</details>
+
+## Výber lokalít pre monitorovanie LCS
+
+Sumarizácia postupu a použitých kritérií pre výber monitorovanej lokality
+
+Ozrejmenie počtu lokalít na jednotlivý kraj
+
+Opis umiestňovania zariadení v rámci jednotlivej lokality a jeho zdôvodnenie (exp/poz)
+
+## Metodika monitorovania a zabezpečenia kvality meraných dát v teréne
+
+Opis vybranej metódy referencovania meraní (40d súmernaia, počet zariadení, počet lokalít, počet súmeraní)
+
+Kritériá pre výber a rozdelovanie zariadení na lokality, ktotériá pre výber a pridelenie rREF staníc pre jednotlivé lokality
+
+## Metodika korekcií
+## Metodika validácie
+## Metodika vyhodnotenia dát
+
+Opis metódy validácia meraní od zberu dát, vyhlásenia za platné dáta, vyhlásenia platného priemeru za časové obdobie a podobne.
+
+Vyhodnotenie presnosti a správnosti dát a opis metodiky nasadenia korekčného faktora
+
+Opis metódy priebežnej kontroly kvality meraní na experimentálnych lokalitách (toto ešte musíme vymyslieť)
+
+Dostupnosť RAW a korigovaných dát (ideálne by mohla byť OPEN)
+
+## Použité prístroje
+
+Opis prístrojov v rámci referenčnej stanice, stanovenie ich presnosti správnosti (ak je dostupné)
+
+Opis experimentálnych zariadení 1 (od dodávateľa)
+
+Opis experimentálnych zariadení 2 (vlastné) – tu sa dohodnúť, koľko detailov chceme zdieľať.
+
+Opis všetkých ďalších pomocných zariadení, ak boli použité
+
+## Referenčné stanice (Plášťovce, Ružomberok)
+
+Charakteristika stanice, znečistenia, typických priemerných ročných/sezónnych koncentrácií.
+
+Dokumentácia priebehu súmeraní na začiatku a na konci q monitorovania (ak prebehlo)
+
+Vyhodnotenie súmeraní Ref vs. Senzor, stanovenie korekčných faktorov,
+
+
+## Výsledky monitorovania pre všetky monitorované lokality
+
+možno vo forme rastrových máp s interpolovanými priemernými ročnými/kvartálnymi koncentráciami so zobrazením hraníc krajov
+
+porovnanie krajov navzájom (priemery na lokalitách)
+
+nájsť vhodné grafické zobrazenie
+
+Porovnanie výsledkov z príslušnej REF stanice a klastra senzorov na zodpovedajúcich EXP lokalitcáh
+
+Porovnanie výsledkov meraní senzorov s výsledkami z najbližšej podobnej stanice NMSKO //predebatujeme//
+
+## Analýza detekcie driftu meraní LCS počas monitorovania
+
+Vyhodnotenie dvoch referenčných súmeraní (na začiatku a na konci monitorovania)
+
+
+## Porovnanie Modelov Kvality ovzdušia a meraných dát na jednotlivých lokalitách
+
+Ak to dáva zmysel: Porovnanie rastrov z modelov a rastrov z interpolovaných meraní Resp. porovnanie koncentrácií zobrazených v modeli (napr. Rio alebo aj inom) bez započítania koncentrácií s LCS monitorovania vrátane započítania týchto dát (toto bude asi lepšie) //tu budeme musieť osloviť modelárov a spýtať sa, či by chceli na tom spolupracovať oproti dohode//
+
+## Vyhodnotenie využiteľnosti LCS pre monitorovanie kvality ovzdušia
+
+Kritické zhodnotenie dosiahnutých výsledkov, zhrnutie výsledkov oproti cieľom projektu, a perspektívy do budúcnosti
+
+## Záverečné zhrnutie
+
+Krátky záver sumarizujúci práce na projekte
+
+## Literatúra
+
+### Appendix I \# Čiastková záverečná správa pre každú lokalitu
+
+interaktívna mapa  so všetkými lokalitami, a ty si klikneš na guličku a vyroluje sa ti záverečná správa
+
+### Appendix II \# Záznamy o zverejňovaní dát (SAZP/weby obcí/SHMU(?))
+
+### Appendix III \# Dostupnosť dát Appendix IV \
+
+### Záznam z outreach aktivít pre verejnosť – ak relevantné
+
+### Appendix V \# Zoznam publikácií okrem Záverečnej Správy
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+:::
+
+::::
+:::
+::::
+:::::

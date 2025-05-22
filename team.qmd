@@ -1,114 +1,175 @@
----
-title: "Ľudia"
----
+# Spoznaj náš tím! 
 
-::::: columns
-::: column
-![OCRID Milovska 0000-0002-0260-5033](images/stanka.jpg){width="150"}
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
+
+![](images/nela.jpg){fig-alt="Portrait of nela" width="150"}
+:::
+::: {.column width="80%"}
+
+## Nela Ševčíková {#nela-sevcikova}
+**Geochemička** 
+      <br>
+      Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu ktorý       panoval pocas vzniku kryštálových jaskýn pomocou štúdia kalcitovej výzdoby. Tiež sa venujem       krasovej hydrogeológii, dobrovolnému jaskyniarstvu, ochrane prírody, environmentálnemu           vzdelávaniu, a kvalite ozdušia. https://orcid.org/0000-0001-7083-5191
+      
+:::
+:::
 :::
 
-::: column
-**Stanka Milovská**
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
 
-Som vedecká pracovníčka na Ústave vied o Zemi SAV v Banskej Bystrici. Mojimi hlavnými odbormi sú mineralógia a Ramanova spektroskopia. Zaoberám sa výskumom geochemických a kryštaochemických vlastností minerálov ako odrazu genézy minerálnych systémov a to najmä v prostredí exogénnych procesov. V ostatných rokoch som súčasťou kolektívu, ktorý rieši problematiku geochemických vlastností speleotém v kontexte klimatických zmien.
-OCRID Milovska 0000-0002-0260-5033
+![](images/stanka.jpg){fig-alt="Portrait of Stanka" width="150"}
+:::
+::: {.column width="80%"}
+
+## Stanka Milovská {#stanka-milovska}
+**Mineralogička** 
+      <br>
+      Som vedecká pracovnícka na Ústave vied o Zemi SAV v Banskej Bystrici. Mojimi hlavnými odbormi sú mineralógia a Ramanova spektroskopia. Zaoberám sa výskumom geochemických a kryštaochemických vlastností minerálov ako odrazu genézy minerálnych systémov a to najmä v prostredí exogénnych procesov. V ostatných rokoch som súcastou kolektívu, ktorý rieši problematiku geochemických vlastností speleotém v kontexte klimatických zmien.
+ORCID Milovska 0000-0002-0260-5033
 
 :::
-:::::
-
-::::: columns
-::: column
-![Monika Orvošová](images/monika.jpg){width="150"}
+:::
 :::
 
-::: column
-**Monika Orvošová**
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
 
-Som geologička s odborným zameraním na mineralógiu a geochémiu jaskynných výplní a ich paleoklimatologickú interpretáciu. Špecializujem sa na kryogénne javy a procesy v jaskyniach prebiehajúce v minulosti ako aj dnes.Tiež som kurátorka mineralogických zbierok v Slovenskom Múzeu ochrany prírody a jaskyniarstva
-
+![](images/monika.jpg){fig-alt="Portrait of monika" width="150"}
 :::
-:::::
+::: {.column width="80%"}
 
-::::: columns
-::: column
-![ORCID 0000-0001-8643-1917](images/veronika_exp.jpg){width="150"}
+## Monika Orvošová {#monika-orvosova}
+**Geologička** 
+      <br>
+      Som geologička s odborným zameraním na mineralógiu a geochémiu jaskynných výplní a ich paleoklimatologickú interpretáciu. Špecializujem sa na kryogénne javy a procesy v jaskyniach prebiehajúce v minulosti ako aj dnes.Tiež som kurátorka mineralogických zbierok v Slovenskom Múzeu ochrany prírody a jaskyniarstva.
+      
 :::
-
-::: column
-**Veronika Hidaši-Turiničová**
-
-Som doktorandka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie. ORCID 0000-0001-8643-1917
-
-
 :::
-:::::
-
-::::: columns
-::: column
-![orcid.org/0000-0002-0981-5471](images/laura_krystlaka.jpg){width="150"}
 :::
 
-::: column
-**Laura Dušeková**
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
 
-Okrem dobrovoľného jaskyniarstva v JK Demänovská dolina a SSS, sa venujem jaskyniam profesne na Správe slovenských jaskýň, konkrétne ich ochrane a geoekológii. Znalosti si dopĺňam aj doktorandským štúdiom na fBERG TUKE so zameraním na využitie bezkontaktných meracích technológii pri výskume jaskýň. 
+
+![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika" width="150"}
+:::
+::: {.column width="80%"}
+
+## Veronika Hidaši-Turiničová {#veroniha-hidasi-turinicova}
+**Fyzička** 
+      <br>
+      Som vedecká pracovníčka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie. ORCID 0000-0001-8643-1917
+
+:::
+:::
+:::
+
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
+
+![](images/laura_krystlaka.jpg){fig-alt="Portrait of laura" width="150"}
+:::
+::: {.column width="80%"}
+
+## Laura Dušeková {#laura-dusekova}
+**Geoekologička** 
+      <br>
+      Okrem dobrovoľného jaskyniarstva v JK Demänovská dolina a SSS, sa venujem jaskyniam profesne na Správe slovenských jaskýň, konkrétne ich ochrane a geoekológii. Znalosti si dopĺňam aj doktorandským štúdiom na fBERG TUKE so zameraním na využitie bezkontaktných meracích technológii pri výskume jaskýň. 
 https://orcid.org/0000-0002-0981-5471
 https://www.researchgate.net/profile/Laura-Dusekova-2
 
-
+      
 :::
-:::::
-
-::::: columns
-::: column
-![orcid.org/0000-0001-7083-5191](images/nela.jpg){width="150"}
+:::
 :::
 
-::: column
-**Nela Ševčíková**
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
 
-Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu ktorý panoval počas vzniku kryštálových jaskýň pomocou štúdia kalcitovej výzdoby. Tiež sa venujem krasovej hydrogeológii, dobrovoľnému jaskyniarstvu, ochrane prírody, environmentálnemu vzdelávaniu, a kvalite ozdušia. 
-https://orcid.org/0000-0001-7083-5191
+![](images/sevo1.jpg){fig-alt="Portrait of Peter" width="150"}
+:::
+::: {.column width="80%"}
 
+## Peter Ševčík {#peter-sevcik}
+**Jaskyniar** 
+      <br>
+      Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
 
 :::
-:::::
-
-::::: columns
-::: column
-![Petre Ševčík](images/sevo1.jpg){width="150"}
+:::
 :::
 
-::: column
-**Peter Ševčík**
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
 
-text
-
+![](images/dominik.jpg){fig-alt="Portrait of Dominik" width="150"}
 :::
-:::::
+::: {.column width="80%"}
 
-::::: columns
-::: column
-![nameá](images/name.jpg){width="150"}
+## Dominik Filipčík {#dominik-filipcik}
+**text** 
+      <br>
+      Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
 :::
-
-::: column
-**name**
-
-text
-
 :::
-:::::
-
-::::: columns
-::: column
-![nameá](images/name.jpg){width="150"}
 :::
 
-::: column
-**name**
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
 
-text
+![](images/lukas.jpg){fig-alt="Portrait of Lukáš" width="150"}
+:::
+::: {.column width="80%"}
+
+## Lukáš Filipčík {#lukas-filipcik}
+**text** 
+      <br>
+      text text
 
 :::
-:::::
+:::
+:::
+
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
+
+![](images/rasto.jpg){fig-alt="Portrait of Rasťo" width="150"}
+:::
+::: {.column width="80%"}
+
+## Rasťo Milovský {#rasto-milovsky}
+**text** 
+      <br>
+      text text
+
+:::
+:::
+:::
+
+::: {.team-member}
+::: columns
+::: {.column width="20%"}
+
+![](images/pavel.jpg){fig-alt="Portrait of Pavel" width="150"}
+:::
+::: {.column width="80%"}
+
+## Pavel Herich {#pavel-herich}
+**text** 
+      <br>
+      text text
+
+:::
+:::
+:::
