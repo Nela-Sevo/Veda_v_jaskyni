@@ -11,7 +11,7 @@
 ## Nela Ševčíková {#nela-sevcikova}
 **Geochemička** 
       <br>
-      Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu ktorý       panoval pocas vzniku kryštálových jaskýn pomocou štúdia kalcitovej výzdoby. Tiež sa venujem       krasovej hydrogeológii, dobrovolnému jaskyniarstvu, ochrane prírody, environmentálnemu           vzdelávaniu, a kvalite ozdušia. https://orcid.org/0000-0001-7083-5191
+      Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu, ktorý panoval počas vzniku kryštálových jaskýň, pomocou štúdia kalcitovej výzdoby. Tiež sa venujem krasovej hydrogeológii, dobrovoľnému jaskyniarstvu, ochrane prírody, environmentálnemu           vzdelávaniu, a kvalite ozdušia.[ORCID](https://orcid.org/0000-0001-7083-5191)
       
 :::
 :::
@@ -29,7 +29,7 @@
 **Mineralogička** 
       <br>
       Som vedecká pracovnícka na Ústave vied o Zemi SAV v Banskej Bystrici. Mojimi hlavnými odbormi sú mineralógia a Ramanova spektroskopia. Zaoberám sa výskumom geochemických a kryštaochemických vlastností minerálov ako odrazu genézy minerálnych systémov a to najmä v prostredí exogénnych procesov. V ostatných rokoch som súcastou kolektívu, ktorý rieši problematiku geochemických vlastností speleotém v kontexte klimatických zmien.
-ORCID Milovska 0000-0002-0260-5033
+[ORCID](https://orcid.org/0000-0002-0260-5033)
 
 :::
 :::
@@ -64,7 +64,7 @@ ORCID Milovska 0000-0002-0260-5033
 ## Veronika Hidaši-Turiničová {#veroniha-hidasi-turinicova}
 **Fyzička** 
       <br>
-      Som vedecká pracovníčka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie. ORCID 0000-0001-8643-1917
+      Som vedecká pracovníčka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie.[ORCID](https://orcid.org/0000-0001-8643-1917)
 
 :::
 :::
@@ -82,8 +82,8 @@ ORCID Milovska 0000-0002-0260-5033
 **Geoekologička** 
       <br>
       Okrem dobrovoľného jaskyniarstva v JK Demänovská dolina a SSS, sa venujem jaskyniam profesne na Správe slovenských jaskýň, konkrétne ich ochrane a geoekológii. Znalosti si dopĺňam aj doktorandským štúdiom na fBERG TUKE so zameraním na využitie bezkontaktných meracích technológii pri výskume jaskýň. 
-https://orcid.org/0000-0002-0981-5471
-https://www.researchgate.net/profile/Laura-Dusekova-2
+[ORCID](https://orcid.org/0000-0002-0981-5471)
+[RG](https://www.researchgate.net/profile/Laura-Dusekova-2)
 
       
 :::
@@ -111,14 +111,14 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 ::: columns
 ::: {.column width="20%"}
 
-![](images/dominik.jpg){fig-alt="Portrait of Dominik" width="150"}
+![](images/dominik.jpg){fig-alt="Portrait of Dominik}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Dominik Filipčík {#dominik-filipcik}
 **text** 
       <br>
-      Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
+      text
 :::
 :::
 :::
@@ -144,7 +144,7 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 ::: columns
 ::: {.column width="20%"}
 
-![](images/rasto.jpg){fig-alt="Portrait of Rasťo" width="150"}
+![](images/rasto.jpg){fig-alt="Portrait of Rasťo"}
 :::
 ::: {.column width="80%"}
 
