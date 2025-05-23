@@ -132,9 +132,9 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 ::: {.column width="80%"}
 
 ## Lukáš Filipčík {#lukas-filipcik}
-**text** 
+**Programátor** 
       <br>
-      text text
+      Som programátor a venujem sa budovaniu produktov na základe decentralizovanej umelej inteligencie. Okrem toho rád občas skočím na kopec alebo si nahodím čelovku a pozriem do nejakej diery. Na jaskyniach ma hlavne baví to, ako sa v nich mení vnímanie času.
 
 :::
 :::
