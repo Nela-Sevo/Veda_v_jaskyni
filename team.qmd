@@ -2,13 +2,13 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/nela.jpg){fig-alt="Portrait of nela" width="150"}
+![](images/nela.jpg){fig-alt="Portrait of nela" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Nela Ševčíková {#nela-sevcikova}
+## Nela Ševčíková 
 **Geochemička** 
       <br>
       Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu ktorý       panoval pocas vzniku kryštálových jaskýn pomocou štúdia kalcitovej výzdoby. Tiež sa venujem       krasovej hydrogeológii, dobrovolnému jaskyniarstvu, ochrane prírody, environmentálnemu           vzdelávaniu, a kvalite ozdušia. https://orcid.org/0000-0001-7083-5191
@@ -19,13 +19,13 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/stanka.jpg){fig-alt="Portrait of Stanka" width="150"}
+![](images/stanka.jpg){fig-alt="Portrait of Stanka"}
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Stanka Milovská {#stanka-milovska}
+## Stanka Milovská 
 **Mineralogička** 
       <br>
       Som vedecká pracovnícka na Ústave vied o Zemi SAV v Banskej Bystrici. Mojimi hlavnými odbormi sú mineralógia a Ramanova spektroskopia. Zaoberám sa výskumom geochemických a kryštaochemických vlastností minerálov ako odrazu genézy minerálnych systémov a to najmä v prostredí exogénnych procesov. V ostatných rokoch som súcastou kolektívu, ktorý rieši problematiku geochemických vlastností speleotém v kontexte klimatických zmien.
@@ -37,13 +37,13 @@ ORCID Milovska 0000-0002-0260-5033
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/monika.jpg){fig-alt="Portrait of monika" width="150"}
+![](images/monika.jpg){fig-alt="Portrait of monika" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Monika Orvošová {#monika-orvosova}
+## Monika Orvošová 
 **Geologička** 
       <br>
       Som geologička s odborným zameraním na mineralógiu a geochémiu jaskynných výplní a ich paleoklimatologickú interpretáciu. Špecializujem sa na kryogénne javy a procesy v jaskyniach prebiehajúce v minulosti ako aj dnes.Tiež som kurátorka mineralogických zbierok v Slovenskom Múzeu ochrany prírody a jaskyniarstva.
@@ -54,14 +54,14 @@ ORCID Milovska 0000-0002-0260-5033
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
 
-![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika" width="150"}
+![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Veronika Hidaši-Turiničová {#veroniha-hidasi-turinicova}
+## Veronika Hidaši-Turiničová 
 **Fyzička** 
       <br>
       Som vedecká pracovníčka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie. ORCID 0000-0001-8643-1917
@@ -72,13 +72,13 @@ ORCID Milovska 0000-0002-0260-5033
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/laura.jpg){fig-alt="Portrait of laura" width="150"}
+![](images/laura.jpg){fig-alt="Portrait of laura" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Laura Dušeková {#laura-dusekova}
+## Laura Dušeková 
 **Geoekologička** 
       <br>
       Okrem dobrovoľného jaskyniarstva v JK Demänovská dolina a SSS, sa venujem jaskyniam profesne na Správe slovenských jaskýň, konkrétne ich ochrane a geoekológii. Znalosti si dopĺňam aj doktorandským štúdiom na fBERG TUKE so zameraním na využitie bezkontaktných meracích technológii pri výskume jaskýň. 
@@ -92,13 +92,13 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/sevo1.jpg){fig-alt="Portrait of Peter" width="150"}
+![](images/sevo1.jpg){fig-alt="Portrait of Peter" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Peter Ševčík {#peter-sevcik}
+## Peter Ševčík 
 **Jaskyniar** 
       <br>
       Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
@@ -109,13 +109,13 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/dominik.jpg){fig-alt="Portrait of Dominik" width="150"}
+![](images/dominik.jpg){fig-alt="Portrait of Dominik" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Dominik Filipčík {#dominik-filipcik}
+## Dominik Filipčík 
 **text** 
       <br>
       Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
@@ -125,13 +125,13 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/lukas.jpg){fig-alt="Portrait of Lukáš" width="150"}
+![](images/lukas.jpg){fig-alt="Portrait of Lukáš" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Lukáš Filipčík {#lukas-filipcik}
+## Lukáš Filipčík 
 **Programátor** 
       <br>
       Som programátor a venujem sa budovaniu produktov na základe decentralizovanej umelej inteligencie. Okrem toho rád občas skočím na kopec alebo si nahodím čelovku a pozriem do nejakej diery. Na jaskyniach ma hlavne baví to, ako sa v nich mení vnímanie času.
@@ -142,13 +142,13 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/rasto.jpg){fig-alt="Portrait of Rasťo" width="150"}
+![](images/rasto.jpg){fig-alt="Portrait of Rasťo" }
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Rasťo Milovský {#rasto-milovsky}
+## Rasťo Milovský 
 **text** 
       <br>
       text text
@@ -159,13 +159,13 @@ https://www.researchgate.net/profile/Laura-Dusekova-2
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column .image}
 
-![](images/pavel.jpg){fig-alt="Portrait of Pavel" width="150"}
+![](images/pavel.jpg){fig-alt="Portrait of Pavel"}
 :::
-::: {.column width="80%"}
+::: {.column .content}
 
-## Pavel Herich {#pavel-herich}
+## Pavel Herich 
 **text** 
       <br>
       text text
