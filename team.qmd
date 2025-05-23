@@ -74,7 +74,7 @@ ORCID Milovska 0000-0002-0260-5033
 ::: columns
 ::: {.column width="20%"}
 
-![](images/laura_krystlaka.jpg){fig-alt="Portrait of laura" width="150"}
+![](images/laura.jpg){fig-alt="Portrait of laura" width="150"}
 :::
 ::: {.column width="80%"}
 
