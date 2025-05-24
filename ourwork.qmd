@@ -23,9 +23,9 @@ Výstava je trvalou inštaláciou, môžete ju navštíviť vždy počas otvára
 ::: {collapse="true"}
 <details>
   <summary><h2>Kryštálová jaskyňa</h2></summary>
-  <p>Kryštáľová jaskyňa pod Rozsutcom je verejnosti neprístupná lokalita v správe jaskyniarskej skupiny [Adama Vallu](https://www.terchova.sk/vsetky-clanky/obec/obecne-organizacie/jaskyniarska-skupina-a-vallu-mala-fatra-sever). Vedecký výskum v Kryštálovej jaskyni realizujeme v spolupráci s miestnymi jaskyniarmi, Ústavom vied o Zemi v Banskej Bystrici, a dvoma zahraničnými pracoviskami: [Quaternary research group](https://quaternary.uibk.ac.at/) z Innsbrucku a [IKER](https://iker.atomki.hu/en/about-us/) centrom enviromntálnych vied a izotopovej klimatológie. 
+  <p>Kryštáľová jaskyňa pod Rozsutcom je verejnosti neprístupná lokalita v správe jaskyniarskej skupiny [Adama Vallu](https://www.terchova.sk/vsetky-clanky/obec/obecne-organizacie/jaskyniarska-skupina-a-vallu-mala-fatra-sever). Vedecký výskum v Kryštálovej jaskyni realizujeme v spolupráci s miestnymi jaskyniarmi, Ústavom vied o Zemi v Banskej Bystrici, a dvoma zahraničnými pracoviskami: [Quaternary research group](https://quaternary.uibk.ac.at/) z Innsbrucku a [IKER](https://iker.atomki.hu/en/about-us/) centrom enviromntálnych vied a izotopovej klimatológie v Debrecíne. 
 
-Kryštálová jaskyňa je unikátnou lokalitou, ktorá nám môže poskytnúť informácie o histórii hydrologického a klimatického režimu v oblasti. Pre jej ochranu nie je sprístupnená, a práve preto sme pre Vás vytvorili jej virtuálnu prehliadku, ktorú si si môžete pozrieť[TU](https://vtc.virtualtourscreator.com.au/share/20499d11c5d9922adcc23603c1341f0f).
+Kryštálová jaskyňa je unikátnou lokalitou, ktorá nám môže poskytnúť informácie o histórii hydrologického a klimatického režimu v oblasti. Pre jej ochranu nie je sprístupnená, a práve preto sme pre Vás vytvorili jej virtuálnu prehliadku, ktorú si si môžete pozrieť [TU](https://vtc.virtualtourscreator.com.au/share/20499d11c5d9922adcc23603c1341f0f).
 
 Prvé výsledky výskumu si môžete prečítať tu: [Sevcikova et al. 2023](https://meetingorganizer.copernicus.org/EGU23/EGU23-2915.html).</p>
 </details>
