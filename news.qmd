@@ -2,4 +2,4 @@
 title: "Novinky"
 ---
 
-Novinky pripravujeme
+//Novinky pripravujeme

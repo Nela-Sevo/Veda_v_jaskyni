@@ -2,11 +2,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/nela.jpg){fig-alt="Portrait of nela" width="150"}
+![](images/nela.jpg){fig-alt="Portrait of nela"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Nela Ševčíková {#nela-sevcikova}
 **Geochemička** 
@@ -19,11 +19,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/stanka.jpg){fig-alt="Portrait of Stanka" width="150"}
+![](images/stanka.jpg){fig-alt="Portrait of Stanka"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Stanka Milovská {#stanka-milovska}
 **Mineralogička** 
@@ -37,11 +37,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/monika.jpg){fig-alt="Portrait of monika" width="150"}
+![](images/monika.jpg){fig-alt="Portrait of monika"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Monika Orvošová {#monika-orvosova}
 **Geologička** 
@@ -54,12 +54,12 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
 
-![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika" width="150"}
+![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Veronika Hidaši-Turiničová {#veroniha-hidasi-turinicova}
 **Fyzička** 
@@ -72,11 +72,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/laura.jpg){fig-alt="Portrait of laura" width="150"}
+![](images/laura.jpg){fig-alt="Portrait of laura"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Laura Dušeková {#laura-dusekova}
 **Geoekologička** 
@@ -92,11 +92,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/sevo1.jpg){fig-alt="Portrait of Peter" width="150"}
+![](images/sevo1.jpg){fig-alt="Portrait of Peter"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Peter Ševčík {#peter-sevcik}
 **Jaskyniar** 
@@ -109,9 +109,10 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/dominik.jpg){fig-alt="Portrait of Dominik}
+![](images/dominik.jpg){fig-alt="Portrait of Dominik"}
+
 :::
 ::: {.column}
 
@@ -125,11 +126,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/lukas.jpg){fig-alt="Portrait of Lukáš" width="150"}
+![](images/lukas.jpg){fig-alt="Portrait of Lukáš"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Lukáš Filipčík {#lukas-filipcik}
 **Programátor** 
@@ -142,11 +143,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/rasto.jpg){fig-alt="Portrait of Rasťo"}
+![](images/Rasto.jpg){fig-alt="Portrait of Rasťo"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Rasťo Milovský {#rasto-milovsky}
 **text** 
@@ -159,11 +160,11 @@
 
 ::: {.team-member}
 ::: columns
-::: {.column width="20%"}
+::: {.column}
 
-![](images/pavel.jpg){fig-alt="Portrait of Pavel" width="150"}
+![](images/pavel1.jpg){fig-alt="Portrait of Pavel"}
 :::
-::: {.column width="80%"}
+::: {.column}
 
 ## Pavel Herich {#pavel-herich}
 **text** 
