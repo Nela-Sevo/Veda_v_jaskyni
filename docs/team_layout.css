@@ -5,41 +5,49 @@
   padding: 25px;
   margin-bottom: 35px;
   background-color: #000;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
-  display: flex;      
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  display: flex;
   align-items: center;
-  gap: 100px; 
-  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  gap: 100px;
+  transition:
+    transform 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
 }
 
 /* Optional: Hover effect for team member cards */
 .team-member:hover {
   transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* --- Ensure image column doesn't shrink and text column fills space --- */
-.team-member .column[width="20%"] { /* Targets the image column */
+div.columns {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
 
-  flex-basis: auto; /* Let the content determine the initial size */
-  flex-grow: 0; /* Don't allow this column to grow */
-  flex-shrink: 0; /* Keep this to prevent shrinking, but flex-basis auto helps */
   text-align: center; /* Center the image within its column */
 }
 
-.team-member .column[width="80%"] { /* Targets the text column */
-  flex-grow: 1; /* ALLOW THIS COLUMN TO GROW AND TAKE REMAINING SPACE */
-  flex-shrink: 1; /* Allow it to shrink if needed (less likely with grow:1) */
-  flex-basis: 0; /* Ensures it truly takes all remaining space */
+.column.image {
+  flex-basis: 30%;
+}
+.column.content {
+  flex-basis: 70%;
+}
+
+section .level2 {
+  width: 80%;
 }
 
 .team-member img {
-  width: 160px; /* Fixed width for the image */
-  height: 230px; /* Fixed height for the image */
+  width: 180px; /* Fixed width for the image */
+  height: 240px; /* Fixed height for the image */
   border-radius: 20%; /* Keep this for non-circular */
   object-fit: cover;
   border: 0px solid #eee;
   display: block;
+
+  margin: auto;
 }
 
 .team-member h2 {
@@ -54,8 +62,20 @@
   line-height: 1.6;
 }
 
+.anchorjs-link {
+  display: none;
+}
+
 /* --- Responsive Adjustments for Smaller Screens --- */
 @media (max-width: 768px) {
+  .column > .level2 {
+    width: 100%;
+  }
+
+  div.columns {
+    flex-direction: column;
+    row-gap: 2rem;
+  }
   .team-member {
     flex-direction: column; /* Stack image and text vertically */
     text-align: center;
@@ -63,18 +83,18 @@
     gap: 15px; /* This gap now applies BETWEEN the stacked image and text columns */
   }
 
-  .team-member .column[width="20%"] {
+  .team-member .column {
     width: auto !important; /* Let content dictate width, or just remove width */
     margin-bottom: 10px;
     flex-basis: auto; /* Reset for mobile */
-  }
-  .team-member .column[width="80%"] {
+
     width: 100% !important; /* Text column takes full width */
     flex-basis: auto; /* Reset for mobile */
+    align-self: center;
   }
 
   .team-member img {
-    width: 120px;
-    height: 120px;
+    width: 240px;
+    height: 280px;
   }
 }
