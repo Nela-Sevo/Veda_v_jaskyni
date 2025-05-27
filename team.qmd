@@ -4,7 +4,7 @@
 ::: columns
 ::: {.column .image}
 
-![](images/nela.jpg){fig-alt="Portrait of nela" }
+![](images/nela.jpg){fig-alt="Portrait of nela"}
 :::
 ::: {.column .content}
 
@@ -117,23 +117,6 @@
 ::: columns
 ::: {.column .image}
 
-![](images/dominik.jpg){fig-alt="Portrait of Dominik" }
-:::
-::: {.column .content}
-
-
-## Dominik Filipčík 
-**text** 
-      <br>
-      text
-:::
-:::
-:::
-
-::: {.team-member}
-::: columns
-::: {.column .image}
-
 ![](images/lukas.jpg){fig-alt="Portrait of Lukáš" }
 :::
 ::: {.column .content}
@@ -144,6 +127,23 @@
       <br>
       Som programátor a venujem sa budovaniu produktov na základe decentralizovanej umelej inteligencie. Okrem toho rád občas skočím na kopec alebo si nahodím čelovku a pozriem do nejakej diery. Na jaskyniach ma hlavne baví to, ako sa v nich mení vnímanie času.
 
+:::
+:::
+:::
+
+::: {.team-member}
+::: columns
+::: {.column .image}
+
+![](images/dominik.jpg){fig-alt="Portrait of Dominik" }
+:::
+::: {.column .content}
+
+
+## Dominik Filipčík 
+**text** 
+      <br>
+      text
 :::
 :::
 :::
