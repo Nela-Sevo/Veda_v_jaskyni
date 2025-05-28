@@ -139,11 +139,10 @@
 :::
 ::: {.column .content}
 
-
 ## Dominik Filipčík 
 **text** 
       <br>
-      text
+      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi. 
 :::
 :::
 :::
@@ -152,16 +151,14 @@
 ::: columns
 ::: {.column .image}
 
-![](images/rasto.jpg){fig-alt="Portrait of Rasťo" }
+![](images/rasto.jpg){fig-alt="Portrait of Rasťo"}
 :::
 ::: {.column .content}
-
 
 ## Rasťo Milovský 
 **text** 
       <br>
-      text text
-
+      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi. 
 :::
 :::
 :::
@@ -174,12 +171,10 @@
 :::
 ::: {.column .content}
 
-
 ## Pavel Herich 
 **text** 
       <br>
-      text text
-
+      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi. 
 :::
 :::
 :::
