@@ -1,180 +1,141 @@
-# Spoznaj náš tím! 
+# Spoznaj náš tím!
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
 ![](images/nela.jpg){fig-alt="Portrait of nela"}
 :::
+
 ::: {.column .content}
+## Nela Ševčíková
 
+**Geochemička** <br> Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu, ktorý panoval počas vzniku kryštálových jaskýň, pomocou štúdia kalcitovej výzdoby. Tiež sa venujem krasovej hydrogeológii, dobrovoľnému jaskyniarstvu, ochrane prírody, environmentálnemu vzdelávaniu, a kvalite ozdušia.[ORCID](https://orcid.org/0000-0001-7083-5191)
+:::
+:::::
+::::::
 
-## Nela Ševčíková 
-**Geochemička** 
-      <br>
-      Som speleologička a geochemička. Venujem sa rekonštrukcii paleohydrologického režimu, ktorý panoval počas vzniku kryštálových jaskýň, pomocou štúdia kalcitovej výzdoby. Tiež sa venujem krasovej hydrogeológii, dobrovoľnému jaskyniarstvu, ochrane prírody, environmentálnemu           vzdelávaniu, a kvalite ozdušia.[ORCID](https://orcid.org/0000-0001-7083-5191)
-      
-:::
-:::
-:::
-
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
 ![](images/stanka.jpg){fig-alt="Portrait of Stanka"}
 :::
+
 ::: {.column .content}
+## Stanka Milovská
 
-
-## Stanka Milovská 
-**Mineralogička** 
-      <br>
-      Som vedecká pracovnícka na Ústave vied o Zemi SAV v Banskej Bystrici. Mojimi hlavnými odbormi sú mineralógia a Ramanova spektroskopia. Zaoberám sa výskumom geochemických a kryštaochemických vlastností minerálov ako odrazu genézy minerálnych systémov a to najmä v prostredí exogénnych procesov. V ostatných rokoch som súcastou kolektívu, ktorý rieši problematiku geochemických vlastností speleotém v kontexte klimatických zmien.
-[ORCID](https://orcid.org/0000-0002-0260-5033)
-
+**Mineralogička** <br> Som vedecká pracovníčka na Ústave vied o Zemi SAV v Banskej Bystrici. Mojimi hlavnými odbormi sú mineralógia a Ramanova spektroskopia. Zaoberám sa výskumom geochemických a kryštaochemických vlastností minerálov ako odrazu genézy minerálnych systémov a to najmä v prostredí exogénnych procesov. V ostatných rokoch som súcastou kolektívu, ktorý rieši problematiku geochemických vlastností speleotém v kontexte klimatických zmien. [ORCID](https://orcid.org/0000-0002-0260-5033)
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
-![](images/monika.jpg){fig-alt="Portrait of monika" }
+![](images/monika.jpg){fig-alt="Portrait of monika"}
 :::
+
 ::: {.column .content}
+## Monika Orvošová
 
+**Geologička** <br> Som geologička s odborným zameraním na mineralógiu a geochémiu jaskynných výplní a ich paleoklimatologickú interpretáciu. Špecializujem sa na kryogénne javy a procesy v jaskyniach prebiehajúce v minulosti ako aj dnes.Tiež som kurátorka mineralogických zbierok v Slovenskom Múzeu ochrany prírody a jaskyniarstva.
+:::
+:::::
+::::::
 
-## Monika Orvošová 
-**Geologička** 
-      <br>
-      Som geologička s odborným zameraním na mineralógiu a geochémiu jaskynných výplní a ich paleoklimatologickú interpretáciu. Špecializujem sa na kryogénne javy a procesy v jaskyniach prebiehajúce v minulosti ako aj dnes.Tiež som kurátorka mineralogických zbierok v Slovenskom Múzeu ochrany prírody a jaskyniarstva.
-      
-:::
-:::
-:::
-
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
-
-![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika" }
+![](images/veronika_exp.jpg){fig-alt="Portrait of Veronika"}
 :::
+
 ::: {.column .content}
+## Veronika Hidaši-Turiničová
 
-
-## Veronika Hidaši-Turiničová 
-**Fyzička** 
-      <br>
-      Som vedecká pracovníčka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie.[ORCID](https://orcid.org/0000-0001-8643-1917)
-
+**Fyzička** <br> Som vedecká pracovníčka v Centre nanotechnológií a pokročilých materiálov FMFI UK v Bratislave, kde sa venujem štúdiu apatitov z hľadiska ich kryštalickej štruktúry a elektrických vlastností. Hlavnou aplikáciou mojej práce je vývoj biomateriálov a potenciálnych biosenzorov. Súčasťou môjho výskumu sú aj simulácie, spracovanie dát a chemické analýzy pomocou rtg a UV fotoelektrónovej spektroskopie.[ORCID](https://orcid.org/0000-0001-8643-1917)
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
-![](images/laura.jpg){fig-alt="Portrait of laura" }
+![](images/laura.jpg){fig-alt="Portrait of laura"}
 :::
+
 ::: {.column .content}
+## Laura Dušeková
 
-
-## Laura Dušeková 
-**Geoekologička** 
-      <br>
-      Okrem dobrovoľného jaskyniarstva v JK Demänovská dolina a SSS, sa venujem jaskyniam profesne na Správe slovenských jaskýň, konkrétne ich ochrane a geoekológii. Znalosti si dopĺňam aj doktorandským štúdiom na fBERG TUKE so zameraním na využitie bezkontaktných meracích technológii pri výskume jaskýň. 
-[ORCID](https://orcid.org/0000-0002-0981-5471)
-[RG](https://www.researchgate.net/profile/Laura-Dusekova-2)
-
-      
+**Geoekologička** <br> Okrem dobrovoľného jaskyniarstva v JK Demänovská dolina a SSS, sa venujem jaskyniam profesne na Správe slovenských jaskýň, konkrétne ich ochrane a geoekológii. Znalosti si dopĺňam aj doktorandským štúdiom na fBERG TUKE so zameraním na využitie bezkontaktných meracích technológii pri výskume jaskýň. [ORCID](https://orcid.org/0000-0002-0981-5471) [RG](https://www.researchgate.net/profile/Laura-Dusekova-2)
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
-![](images/sevo1.jpg){fig-alt="Portrait of Peter" }
+![](images/sevo1.jpg){fig-alt="Portrait of Peter"}
 :::
+
 ::: {.column .content}
+## Peter Ševčík
 
-
-## Peter Ševčík 
-**Jaskyniar** 
-      <br>
-      Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
-
+**Jaskyniar** <br> Som sochár, umelecký kováč a dobrovoľný jaskyniar. Profesionálne sa venujem historickým budovám, ich údržbe a obnove použitím pôvodných technológií. V jaskyniach ma zaujímjú dejiny objavov a prieskumov, archeológia, ale hlavne prieskum neznámych častí jaskýň a hľadanie ich pokračovania
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
-![](images/lukas.jpg){fig-alt="Portrait of Lukáš" }
+![](images/lukas.jpg){fig-alt="Portrait of Lukáš"}
 :::
+
 ::: {.column .content}
+## Lukáš Filipčík
 
-
-## Lukáš Filipčík 
-**Programátor** 
-      <br>
-      Som programátor a venujem sa budovaniu produktov na základe decentralizovanej umelej inteligencie. Okrem toho rád občas skočím na kopec alebo si nahodím čelovku a pozriem do nejakej diery. Na jaskyniach ma hlavne baví to, ako sa v nich mení vnímanie času.
-
+**Programátor** <br> Som programátor a venujem sa budovaniu produktov na základe decentralizovanej umelej inteligencie. Okrem toho rád občas skočím na kopec alebo si nahodím čelovku a pozriem do nejakej diery. Na jaskyniach ma hlavne baví to, ako sa v nich mení vnímanie času.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
-![](images/dominik.jpg){fig-alt="Portrait of Dominik" }
+![](images/dominik.jpg){fig-alt="Portrait of Dominik"}
 :::
+
 ::: {.column .content}
+## Dominik Filipčík
 
-## Dominik Filipčík 
-**text** 
-      <br>
-      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi. 
+**text** <br> Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
 ![](images/rasto.jpg){fig-alt="Portrait of Rasťo"}
 :::
+
 ::: {.column .content}
+## Rasťo Milovský
 
-## Rasťo Milovský 
-**text** 
-      <br>
-      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi. 
+**text** <br> Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi.
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.team-member}
-::: columns
+:::::: team-member
+::::: columns
 ::: {.column .image}
-
 ![](images/pavel.jpg){fig-alt="Portrait of Pavel"}
 :::
-::: {.column .content}
 
-## Pavel Herich 
-**text** 
-      <br>
-      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi. 
+::: {.column .content}
+## Pavel Herich
+
+**text** <br> Lorem ipsum dolor sit amet consectetur adipiscing elit nulla, id cursus habitant quisque class turpis sociosqu, efficitur ex orci dui quis ullamcorper feugiat. Justo gravida senectus leo dui sem finibus convallis dictum sed, facilisis semper integer consequat donec nam erat nostra, massa lobortis mauris dis nec mi dignissim morbi.
 :::
-:::
-:::
+:::::
+::::::

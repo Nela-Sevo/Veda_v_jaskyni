@@ -2,4 +2,88 @@
 title: "Novinky"
 ---
 
-//Novinky pripravujeme
+
+:::::: news
+::::: columns
+::: {.column .image}
+![](images/raman3.jpg){fig-alt="SAV BB"}
+:::
+
+::: {.column .content}
+## Spolupráca s laboratóriami Ústavu Vied  Zemi a Vesmíre SAV v Banskej Bystrici
+
+**2025/11** <br> Stanka a Nela spolupracovali na analýzach plynu zachyteného vo fluidných inklúziách jaskynných kryštálov. Na analýzu bolo bezplatne poskytnuté laboratórium UVE SAV v BB v čase mimo pracovných hodín. Stanka zdieľala svoju expertízu v oblasti Ramanovej spektrometrie a spoločne zanalyzovali niekoľko vzoriek fluidných inklúzií z kalcitu a fluoritu. Merania sa zúčastnil aj Peter, ktorý sa v tom čase venoval dokumentačným a osvetovým prácam ohľadom jaskýň bratislavského kraja.
+:::
+:::::
+::::::
+
+:::::: news
+::::: columns
+::: {.column .image}
+![](images/devin.jpg){fig-alt="Jaskyňa v hradnom brale"}
+:::
+
+::: {.column .content}
+## Prieskum a dokumentácia jaskýň v Hradnom brale Hradu Devín
+
+**2025/10** <br> Peter zdokumentoval niekoľko známych jaskýň v hradnom brale na Devíne pri Bratislave, identifikoval výskyt zaujímavých jaskynných výplní. Všetky jaskyne tejto lokality sú klasifikované ako verejnosti neprístupné a ich návšteva podlieha špecifickej výmimke.
+:::
+:::::
+::::::
+
+:::::: news
+::::: columns
+::: {.column .image}
+![](images/krystal_zaskocie.jpg){fig-alt="Kalcit"}
+:::
+
+::: {.column .content}
+## Identifikácia nového Výskytu veľkých kalcitových kryštálov v jaskyni
+
+**2025/11** <br> Laura a Pavel zdokumentovali nový výskyt kryštálov v jaskyni na Liptove. Podobné kryštály sa nachádzajú na viacerých lokalitách v okolí a ukrývajú informácie o dávnom hydrologickom a termálnom vývoji jaskýň a okolitých hornín.
+:::
+:::::
+::::::
+
+
+:::::: news
+::::: columns
+::: {.column .image}
+![](images/hlbokabraza.jpg){fig-alt="Jaskyne"}
+:::
+
+::: {.column .content}
+## Nové kratšie jaskyne v oblasti Hlbokej brázdy v Bratislave
+
+**2025/10** <br> Peter zdokumentoval viacero menších, dosiaľ neznámych jaskýň v katastri Bratislavy. Všetky jaskyne tejto lokality sú klasifikované ako verejnosti neprístupné a ich návšteva podlieha špecifickej výmimke.
+:::
+:::::
+::::::
+
+:::::: news
+::::: columns
+::: {.column .image}
+![](images/krystalka.jpg){fig-alt="Kryštálová jaskyňa"}
+:::
+
+::: {.column .content}
+## Terénne práce v Kryštálovej jaskyni pod Rozsutcom
+
+**2025/09** <br> Nela a Peter sa zúčastnili terénnych prác v Kryštálovej jaskyni pod Rozsutcom v spolupráci s jaskyniarmi z lokálnej jaskyniarskej skupiny Adama Vallu z Terchovej, Tomášom a Milkou, ktorí poskytli kľúče od jaskyne, cenné informácie a milú spoločnosť.  Cieľom prác bol odber in-situ vzoriek sedimentu a bezprostredne (stratigraficky) blízkych kryštálov z dvoch profilov, kde pozorujeme rôzne stratigrafické vzťahy kryštál-sediment. Vzorkovanie bolo realizované na základe povolenia č. OU-BA-OSZP1-2025/308259-034.
+:::
+:::::
+::::::
+
+:::::: news
+::::: columns
+::: {.column .image}
+![](images/Uniibk.jpg){fig-alt="Univerzita v Innsbrucku"}
+:::
+
+::: {.column .content}
+## Výskumná stáž na univerzite v Innsbrucku
+
+**2025/09** <br> Nela získala štipendium od NSP na trojmesačnú stáž na univerzite Franza Leopolda v Innsbrucku, kde sa bude venovať analytickej práci na vzorkách z Kryštálovej jaskyne pod Rozsutcom (Malá Fatra). Plánované sú analýzy fluidných inklúzií a stabilných izotopov vo vzorkách kalcitu z tejto, a niekoľkých ďalších, kryštálových jaskýň.
+:::
+:::::
+::::::
