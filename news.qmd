@@ -49,7 +49,7 @@ title: "Novinky"
 :::::: news
 ::::: columns
 ::: {.column .image}
-![](images/hlbokabraza.jpg){fig-alt="Jaskyne"}
+![](images/hlbokabrazda.jpg){fig-alt="Jaskyne"}
 :::
 
 ::: {.column .content}
