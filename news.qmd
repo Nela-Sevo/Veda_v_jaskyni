@@ -1,6 +1,7 @@
 ---
 title: "Novinky"
 ---
+
 :::::: news
 ::::: columns
 ::: {.column .image}
@@ -8,7 +9,7 @@ title: "Novinky"
 :::
 
 ::: {.column .content}
-## Terénne práce v Kryštálovej jaskyni 
+## Terénne práce v Kryštálovej jaskyni
 
 **2025/12** <br> Nela a Peter zrealizovali tohoročné posledné terénne práce v Kryštálovej jaskyni pod Rozsutcom. Potrebovali sme dovzorkovať sediment v jaskyni a odobrať vzorku pôdy nad jaskyňou. Po návšteve Terchovských jaskyniarov sme transpotrovali vzorky do laboratórií SAV v Banskej Bystrici, aby sme ich odovzdali Adrianovi Biroňovi, s ktorým spolupracujeme.
 :::
@@ -106,9 +107,9 @@ title: "Novinky"
 :::
 
 ::: {.column .content}
-## Získali sme povolenie na realizáciu ďalších terénnych prác a odber vzoriek z kyrštálových jaskýň 
+## Získali sme povolenie na realizáciu ďalších terénnych prác a odber vzoriek z kyrštálových jaskýň
 
-**2025/7** <br> Okresným úradom životného prostredia v Bratislave nám bolo udelené povolenie č. OU-BA-OSZP1-2025/308259-029/LAJ a č. OU-BA-OSZP1-2025/308259-034 na výskum a odber vzoriek z kryštálových jaskýň na Slovensku, na územiach vybraných národných parkov a chránených krajinných oblastí, so súhlasom Správy slovenských jaskýň.   
+**2025/7** <br> Okresným úradom životného prostredia v Bratislave nám bolo udelené povolenie č. OU-BA-OSZP1-2025/308259-029/LAJ a č. OU-BA-OSZP1-2025/308259-034 na výskum a odber vzoriek z kryštálových jaskýň na Slovensku, na územiach vybraných národných parkov a chránených krajinných oblastí, so súhlasom Správy slovenských jaskýň.
 :::
 :::::
 ::::::
@@ -122,7 +123,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Náš nový WEB, vitaj!
 
-**2025/5** <br> Nela s Lukášom dali dohromady našu webstránku:) Priebežne budeme pridávať content, upravovať dizajn, a pridávať novinky na ktorých pracujeme. 
+**2025/5** <br> Nela s Lukášom dali dohromady našu webstránku:) Priebežne budeme pridávať content, upravovať dizajn, a pridávať novinky na ktorých pracujeme.
 :::
 :::::
 ::::::
@@ -136,7 +137,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Speleoexkurzie s Ekocentrom Stupava
 
-**2025/4** <br> Nela s Petrom zrealizovali sériu náučných exkurzií pre rodiny s deťmi, zameraných na environmentálnu výchovu a spoznávanie krasu, ochranu krasových vôd a praktické ukážky geochemických a geologických procesov prebiehajúcich v krasovej krajine. Exkurzie boli organizované Ekocentrom Stupava, konali sa v krasovom území spravovanom Speleoklubom Bratislava. Účastníci exkurzií podporili svojím príspevkom výskum a prieskum jaskýň. 
+**2025/4** <br> Nela s Petrom zrealizovali sériu náučných exkurzií pre rodiny s deťmi, zameraných na environmentálnu výchovu a spoznávanie krasu, ochranu krasových vôd a praktické ukážky geochemických a geologických procesov prebiehajúcich v krasovej krajine. Exkurzie boli organizované Ekocentrom Stupava, konali sa v krasovom území spravovanom Speleoklubom Bratislava. Účastníci exkurzií podporili svojím príspevkom výskum a prieskum jaskýň.
 :::
 :::::
 ::::::
@@ -150,7 +151,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Virtuálna prehliadka Kryštálovej jaskyne pod Rozsutcom
 
-**2024/8** <br> Laura s pomocou Nely a Petra vytvorila 3D fotodokumentáciu Kryštálovej jaskyne pod Rozsutcom, ktorú následne použila na vytvorenie 3D virtuálnej prehliadky tejto jaskyne. Prehliadku Nela neskôr anotovala fotografiami a textami vychádzajúcimi s nášho výskumu. Prehliadku nájdete TU. Aj takouto formou vieme priblížiť verejnosti tajomstvá ukryté v nesprístupnených jaskyniach. Za sprievod v teréne a spoluprácu ďakujeme Štefanovi Muchovi z Jaskyniarskej skupiny Adama Vallu v Terchovej. Za zapožičanie technického vybavenia na zostavenie 3D fotografií ďakujeme Technickej univerzite v Košiciach. 
+**2024/8** <br> Laura s pomocou Nely a Petra vytvorila 3D fotodokumentáciu Kryštálovej jaskyne pod Rozsutcom, ktorú následne použila na vytvorenie 3D virtuálnej prehliadky tejto jaskyne. Prehliadku Nela neskôr anotovala fotografiami a textami vychádzajúcimi s nášho výskumu. Prehliadku nájdete TU. Aj takouto formou vieme priblížiť verejnosti tajomstvá ukryté v nesprístupnených jaskyniach. Za sprievod v teréne a spoluprácu ďakujeme Štefanovi Muchovi z Jaskyniarskej skupiny Adama Vallu v Terchovej. Za zapožičanie technického vybavenia na zostavenie 3D fotografií ďakujeme Technickej univerzite v Košiciach.
 :::
 :::::
 ::::::
@@ -164,7 +165,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Uchádzali sme sa o grant Nadácie ESET na podporu environmentálneho vzdelávania a komunikácie vedy
 
-**2024/3** <br> Dominik a Nela spísali žiadosť o grant nadácie ESET na podporu komunikácie a popularizácie výsledkov vedeckého výskumu realizovaného v Kryštálovej jaskyni pod Rozsutcom. Náš projekt tentokrát nebol finančne podporený, budeme hľadať alterantívy aby sa nám podarilo ciele napriek tomu naplniť a naše výsledky verejnosti priblížiť. 
+**2024/3** <br> Dominik a Nela spísali žiadosť o grant nadácie ESET na podporu komunikácie a popularizácie výsledkov vedeckého výskumu realizovaného v Kryštálovej jaskyni pod Rozsutcom. Náš projekt tentokrát nebol finančne podporený, budeme hľadať alterantívy aby sa nám podarilo ciele napriek tomu naplniť a naše výsledky verejnosti priblížiť.
 :::
 :::::
 ::::::
