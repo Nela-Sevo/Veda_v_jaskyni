@@ -19,6 +19,8 @@ website:
         text: Realizácie
       - href: contact_us.qmd
         text: Kontakt
+      - href: forstudents.qmd
+        text: Pre Študentov
 
 format:
   html:

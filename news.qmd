@@ -10,7 +10,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Terénne práce v Kryštálovej jaskyni 
 
-**2025/12** <br> Nela a Peter zrealizovali tohoročné posledné terénne práce v Kryštálovej jaskyni pod Rozsutcom. Potrebovali sme dovzorkovať sediment v jaskyni a odobrať vzorku pôdy nad jaskyňou. Po návšteve Terchovských jaskyniarov sme transpotrovali vzorky do laboratórií SAV v Banskej Bystrici, a odovzdané Adrianovi Biroňovi, s ktorým spolupracujeme.
+**2025/12** <br> Nela a Peter zrealizovali tohoročné posledné terénne práce v Kryštálovej jaskyni pod Rozsutcom. Potrebovali sme dovzorkovať sediment v jaskyni a odobrať vzorku pôdy nad jaskyňou. Po návšteve Terchovských jaskyniarov sme transpotrovali vzorky do laboratórií SAV v Banskej Bystrici, aby sme ich odovzdali Adrianovi Biroňovi, s ktorým spolupracujeme.
 :::
 :::::
 ::::::
@@ -80,7 +80,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Terénne práce v Kryštálovej jaskyni pod Rozsutcom
 
-**2025/09** <br> Nela a Peter sa zúčastnili terénnych prác v Kryštálovej jaskyni pod Rozsutcom v spolupráci s jaskyniarmi z lokálnej jaskyniarskej skupiny Adama Vallu z Terchovej, Tomášom a Milkou, ktorí poskytli kľúče od jaskyne, cenné informácie a milú spoločnosť. Cieľom prác bol odber in-situ vzoriek sedimentu a bezprostredne (stratigraficky) blízkych kryštálov z dvoch profilov, kde pozorujeme rôzne stratigrafické vzťahy kryštál-sediment. Vzorkovanie bolo realizované na základe povolenia č. OU-BA-OSZP1-2025/308259-034.
+**2025/09** <br> Nela a Peter zrealizovali terénne práce v Kryštálovej jaskyni pod Rozsutcom v spolupráci s Tomášom a Milkou z lokálnej jaskyniarskej skupiny Adama Vallu z Terchovej, ktorí nám poskytli kľúče od jaskyne a cenné informácie. Cieľom prác bol odber in-situ vzoriek sedimentu a bezprostredne (stratigraficky) blízkych kryštálov z dvoch profilov, kde pozorujeme rôzne stratigrafické vzťahy kryštál-sediment. Vzorkovanie bolo realizované na základe povolenia č. OU-BA-OSZP1-2025/308259-034.
 :::
 :::::
 ::::::
@@ -94,7 +94,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Výskumná stáž na univerzite v Innsbrucku
 
-**2025/09** <br> Nela získala štipendium od NSP na trojmesačnú stáž na univerzite Franza Leopolda v Innsbrucku, kde sa bude venovať analytickej práci na vzorkách z Kryštálovej jaskyne pod Rozsutcom (Malá Fatra). Plánované sú analýzy fluidných inklúzií a stabilných izotopov vo vzorkách kalcitu z tejto, a niekoľkých ďalších, kryštálových jaskýň.
+**2025/09** <br> Nela získala štipendium od NŠF na trojmesačnú stáž na univerzite Franza Leopolda v Innsbrucku, kde sa bude venovať analytickej práci na vzorkách z Kryštálovej jaskyne pod Rozsutcom (Malá Fatra). Plánované sú analýzy fluidných inklúzií a stabilných izotopov vo vzorkách kalcitu z tejto, a niekoľkých ďalších, kryštálových jaskýň.
 :::
 :::::
 ::::::
@@ -102,13 +102,13 @@ title: "Novinky"
 :::::: news
 ::::: columns
 ::: {.column .image}
-![](images/VVJ.jpg){fig-alt="VVJ"}
+![](images/VVJ.png){fig-alt="VVJ"}
 :::
 
 ::: {.column .content}
 ## Získali sme povolenie na realizáciu ďalších terénnych prác a odber vzoriek z kyrštálových jaskýň 
 
-**2025/7** <br> Okresným úradom životného prostredia v Bratislave nám bolo udelené povolenie č. OU-BA-OSZP1-2025/308259-029/LAJ a č. OU-BA-OSZP1-2025/308259-034 na výskum a odber vzoriek z kryštálových jaskýň na Slovensku, na územiach vybraných národných parkov a chránených krajinných oblastí, so súhlasom Slovenskej Správy Jaskýň.   
+**2025/7** <br> Okresným úradom životného prostredia v Bratislave nám bolo udelené povolenie č. OU-BA-OSZP1-2025/308259-029/LAJ a č. OU-BA-OSZP1-2025/308259-034 na výskum a odber vzoriek z kryštálových jaskýň na Slovensku, na územiach vybraných národných parkov a chránených krajinných oblastí, so súhlasom Správy slovenských jaskýň.   
 :::
 :::::
 ::::::
@@ -136,7 +136,7 @@ title: "Novinky"
 ::: {.column .content}
 ## Speleoexkurzie s Ekocentrom Stupava
 
-**2025/4** <br> Nela s Petrom Zrealizovali sériu náučných exkurzií pre rodiny s deťmi, zameraných na environmentálnu výchovu a spoznávanie krasu, ochranu krasových vôd a praktické ukážky geochemických a geologických procesov prebiehajúcich v krasovej krajine. Exkurzie boli organizované Ekocentrom Stupava, konali sa v krasovom území spravovanom Speleoklubom Bratislava. Účastníci exkurzií podporili svojím príspevkom výskum a prieskum jaskýň. 
+**2025/4** <br> Nela s Petrom zrealizovali sériu náučných exkurzií pre rodiny s deťmi, zameraných na environmentálnu výchovu a spoznávanie krasu, ochranu krasových vôd a praktické ukážky geochemických a geologických procesov prebiehajúcich v krasovej krajine. Exkurzie boli organizované Ekocentrom Stupava, konali sa v krasovom území spravovanom Speleoklubom Bratislava. Účastníci exkurzií podporili svojím príspevkom výskum a prieskum jaskýň. 
 :::
 :::::
 ::::::
