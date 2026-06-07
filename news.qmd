@@ -159,7 +159,7 @@ title: "Novinky"
 :::::: news
 ::::: columns
 ::: {.column .image}
-![](images/esetgrant.jpg){fig-alt="grant"}
+![](images/VVJ.png){fig-alt="grant"}
 :::
 
 ::: {.column .content}
@@ -173,7 +173,7 @@ title: "Novinky"
 :::::: news
 ::::: columns
 ::: {.column .image}
-![](images/VVJ.jpg){fig-alt="Hello World!"}
+![](images/VVJ.png){fig-alt="Hello World!"}
 :::
 
 ::: {.column .content}
