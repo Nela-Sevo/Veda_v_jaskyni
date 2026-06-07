@@ -15,12 +15,12 @@ website:
         text: Novinky
       - href: team.qmd
         text: Ľudia
-      - href: ourwork
+      - href: ourwork.qmd
         text: Realizácie
       - href: contact_us.qmd
         text: Kontakt
       - href: forstudents.qmd
-        text: Pre Študentov
+        text: Pre študentov
 
 format:
   html:
@@ -32,4 +32,3 @@ format:
     page-layout: full
 
 editor: visual
-
